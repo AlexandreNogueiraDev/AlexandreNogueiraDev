@@ -41,7 +41,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
 #### 🗃️ Fluxograma
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Semáforo para Cidades Inteligentes** |algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia.. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados) |
+| **Sistema de Semáforo para Cidades Inteligentes** |algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia.. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas) |
  
 ---
  
