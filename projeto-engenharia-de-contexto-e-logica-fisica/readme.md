@@ -21,4 +21,4 @@ Um motor de simulação onde um "agente" deve atravessar uma planta de edifício
 * [cite_start]**Estruturas de Controlo:** `while True`, `match/case` (Python 3.10), e iteração dupla com `enumerate`[cite: 2].
 * [cite_start]**Lógica de Inventário:** Uso de dicionários para monitorizar estados (chave, energia, itens)[cite: 2].
 
-[Voltar ao início](https://github.com/seu-usuario/repo)
+[Voltar ao início](https://github.com/portfolio-alexandre-almeida-de-jesus-nogueira/portfolio-alexandre-almeida-de-jesus-nogueira)
