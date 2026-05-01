@@ -33,10 +33,10 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Desenvolvimento Java com Modelagem de Banco de Dados
+#### 🗃️ Desenvolvimento Python
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Loja com Interface Gráfica** | Usando Java, Modelagem MER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](https://github.com/AlexandreNogueiraDev/Java-CRUD-de-Loja-interface-Grafica-) |
+| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados) |
  
 ---
  
