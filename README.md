@@ -36,7 +36,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou ap
 #### 🗃️ Desenvolvimento de Sistema com Java (Etec)
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| ** Java, CRUD de Produtos Console ** |Projeto desenvolvido em Java, utilizando MySQL, com o objetivo de praticar a integração entre aplicação Java e banco de dados, aplicando os conceitos de CRUD (Create, Read, Update, Delete) em um sistema de console. | [Ver Projeto](https://github.com/AlexandreNogueiraDev/Java-CRUD-de-Produtos-Console) |
+| **Java, CRUD de Produtos Console** |Projeto desenvolvido em Java, utilizando MySQL, com o objetivo de praticar a integração entre aplicação Java e banco de dados, aplicando os conceitos de CRUD (Create, Read, Update, Delete) em um sistema de console. | [Ver Projeto](https://github.com/AlexandreNogueiraDev/Java-CRUD-de-Produtos-Console) |
 |  | |  |
 | **Java, CRUD de Loja interface Gráfica** |Este é um projeto em Java com interface gráfica que implementa um sistema de gerenciamento de loja com operações básicas de CRUD (Create, Read, Update, Delete), utilizando JDBC para conexão com banco de dados MySQL. | [Ver Projeto](https://github.com/AlexandreNogueiraDev/Java-CRUD-de-Loja-interface-Grafica-) |
 |  | |  |
