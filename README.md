@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend e Banco de Dados
+Atualmente cursando o 2º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend e Banco de Dados
  
 * **Habilidades Técnicas:** Java, Python, SQL, HTML, CSS, JS
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
